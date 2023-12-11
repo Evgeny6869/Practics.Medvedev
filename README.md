@@ -1,1 +1,1 @@
-[Задача https://platform.kata.academy/fake/user/16597/courses/1/3/1/4 требует проверки ментором ](https://github.com/Evgeny6869/Practics.Medvedev.git)https://github.com/Evgeny6869/Practics.Medvedev.git
+https://github.com/Evgeny6869/Practics.Medvedev.git
